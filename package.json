@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "compile": "node generate.js"
+  },
+  "dependencies": {
+    "@apex-protocol/core": "^0.0.8",
+    "ioredis": "^5.0.3"
+  }
+}
